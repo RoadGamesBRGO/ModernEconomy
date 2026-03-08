@@ -1,0 +1,24 @@
+name: ModernEconomy
+version: 1.0.0
+main: rgbrgo\ModernEconomy\Main
+api: 5.0.0
+author: rgbrgo
+
+commands:
+  money:
+    description: "Abre o menu do Banco Moderno"
+    permission: moderneconomy.player
+  pay:
+    description: "Enviar dinheiro para outro jogador"
+    permission: moderneconomy.player
+  setmoney:
+    description: "Definir o saldo de um jogador"
+    permission: moderneconomy.admin
+
+permissions:
+  moderneconomy.player:
+    description: "Permite usar os comandos básicos de economia"
+    default: true
+  moderneconomy.admin:
+    description: "Permite gerenciar o dinheiro de outros jogadores"
+    default: op
