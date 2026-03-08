@@ -60,4 +60,4 @@ Este projeto está protegido pela licença **Creative Commons Attribution-NonCom
 *   👤 **Créditos:** O autor original (**Mayco**) deve sempre ser mencionado.
 
 ---
-*Desenvolvido com ❤️ por Mayco para a comunidade Bedrock.*
+*Desenvolvido com ❤️ por Mayco para a comunidade Bedrock.* 
